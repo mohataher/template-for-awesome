@@ -1,5 +1,5 @@
 # template-for-awesome
-A template for awesome curated lists
+A template for awesome curated lists. Use this as a start for any curated list you may want to start in the future.
 
 ## Introduction
 Add your introduction here
