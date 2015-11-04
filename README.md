@@ -42,7 +42,7 @@ Step 2. The item should fall under the appropriate category.
 
 ## License
 ```
-Copyright (C) 2014 Your/Company Name <your@email.com>
+Copyright (C) 2015 Your/Company Name <your@email.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
