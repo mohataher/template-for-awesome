@@ -1,6 +1,5 @@
 # template-for-awesome
 A template for awesome curated lists
-# awesome-android
 
 ## Introduction
 Add your introduction here
